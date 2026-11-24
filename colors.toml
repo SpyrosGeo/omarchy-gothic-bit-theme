@@ -1,0 +1,33 @@
+# Gothic Bit — moss-black glass, rusted window iron, and faded ivory roses (from the wallpaper).
+
+mode = "dark"
+
+accent = "#a8875a"
+selection = "#2b332a"
+muted = "#4c534a"
+
+background = "#0f130d"
+dark_background = "#0b0e0a"
+darker_background = "#070906"
+lighter_background = "#1b231b"
+
+foreground = "#c8c9bb"
+dark_foreground = "#7f847d"
+light_foreground = "#a9ae9f"
+bright_foreground = "#e4e2d4"
+
+red = "#9a5a48"
+yellow = "#b8a370"
+orange = "#a86f45"
+green = "#7f9473"
+cyan = "#7a9a91"
+blue = "#6f8794"
+magenta = "#8f7a86"
+brown = "#6b5a3c"
+
+bright_red = "#b8735a"
+bright_yellow = "#d6c792"
+bright_green = "#9fb08f"
+bright_cyan = "#9ab8ae"
+bright_blue = "#8fa5b0"
+bright_magenta = "#ab96a2"
